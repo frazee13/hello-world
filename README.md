@@ -1,2 +1,2 @@
 # hello-world
-this is a file i was told to make; it features the words "hello" and "world" in the title seperated by a hyphen. What other description would there be?
+This is a file i was told to make; it features the words "hello" and "world" in the title separated by a hyphen. Nothing follows.
